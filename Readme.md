@@ -1,4 +1,4 @@
-#YelpCamp
+#HiipCamp
 
 - Add Landing Page
 - Add Campgrounds Page that lists all camprounds
